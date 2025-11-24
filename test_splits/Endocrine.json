@@ -1,0 +1,97 @@
+[
+  {
+    "image": "MedXpertQA/MM-1732-a.jpeg",
+    "problem": "A 1-year-old boy is brought to a pediatrician for evaluation shortly after his family moved to the United States. The boy was born at home and his parents received minimal prenatal care or medical care prior to this visit. His parents say that he seems to be slower in acquiring skills than their previous children. On presentation, he is found to have upward slanting eyes with epicanthal skin folds. Further examination shows low muscle tone, a short neck, a flat nasal bridge, and a large space between the first and second toes. Pregnancy labs during the 16th week of pregnancy would most likely have revealed which of the sets of values shown in Figure A?\nAnswer Choices: (A) D (B) B (C) E (D) A (E) C",
+    "solution": "<answer> B </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-644-b.jpeg",
+    "problem": "A 8-year-old girl is brought to the physician by her parents because they are concerned that she is not growing properly. She lives on a farm with her parents and has not seen a doctor since birth, at which point they noted swelling of her hands and feet. An image of the patient is shown in Figure F. Which of the following karyotypes would you expect to find in this patient?\nAnswer Choices: (A) Figure D (B) Figure B (C) Figure A (D) Figure C (E) Figure E",
+    "solution": "<answer> A </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-1147-a.jpeg",
+    "problem": "Which of the following Figures illustrates a condition caused by excessive secretion of a hormone that primarily impacts the proliferative zone of the growth plate?\nAnswer Choices: (A) Figure C (B) Figure E (C) Figure A (D) Figure D (E) Figure B",
+    "solution": "<answer> E </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-480-a.jpeg",
+    "problem": "A 34-year-old woman visits her primary care physician with a four-week history of general malaise, abdominal and thigh pain, anxiety, and frequent nighttime urination. Physical examination reveals normal vital signs. Laboratory tests show elevated calcium levels and a serum PTH of 89 ng/L (reference range: 10-65 ng/L). A sestamibi-single photon emission computed tomography (SPECT) scan of the neck is shown in Figure A. Which of the following findings is least likely to be associated with this patient’s condition?\nAnswer Choices: (A) Pheochromocytoma (B) Pancreatic carcinoma (C) Mucosal neuromas (D) Medullary thyroid cancer (E) Pituitary adenoma",
+    "solution": "<answer> C </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-274-a.jpeg",
+    "problem": "A 42-year-old woman visits her primary care provider to evaluate a breast mass that she discovered one month ago while dressing. She believes the mass has grown since initial discovery. Following ultrasound imaging and core biopsy, the mass is diagnosed as an estrogen receptor-positive breast adenocarcinoma. During treatment planning, her oncologist recommends adjuvant tamoxifen therapy. When the patient inquires about tamoxifen's mechanism of action, the physician explains that its effects vary by tissue type. Which combination correctly describes tamoxifen's pharmacologic activity in different target tissues?\nAnswer Choices: (A) Set D (B) Set E (C) Set B (D) Set C (E) Set A",
+    "solution": "<answer> A </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-50-a.png",
+    "problem": "A 2-week-old male presents to the emergency department with severe diarrhea, emesis, and difficulty feeding. The patient was born at home via spontaneous vaginal delivery at approximately 40-weeks gestation to a G1P1 female that received no prenatal care. The mother denies any major past or current medical issues, illicit drug or alcohol use, and severe infections or travel during the pregnancy. She does not take any daily medications but did take a prenatal vitamin throughout the first two trimesters. Family history is negative for congenital disease.\n\n \n\nTemperature is 98.1 F. Blood pressure is 56/32 mmHg, pulse is 180/min, and respiratory rate is 42/min. Inspection reveals an irritable newborn with dry mucus membranes, sunken fontanelles, and normal-appearing external male genitalia. Peripheral karyotype demonstrates 46,XY. Further evaluation reveals a congenital deficiency of 21-hydroxylase. Which of the following sets of laboratory findings in *Table One* will most likely be present in this patient?\n\nTable One\nAnswer Choices: (A) Set B (B) Set C (C) Set D (D) Set A (E) Set E",
+    "solution": "<answer> D </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-1384-a.jpeg",
+    "problem": "A 54-year-old male presents to his primary care physician with complaints of palpitations, diarrhea, and worsening symptoms over time, including feeling excessively hot at work. His wife notes that he has become more irritable and is eating more despite ongoing weight loss. On examination, he has warm, moist skin, hyperactive reflexes, and a soft, painless lump on the right side of his neck. Imaging reveals findings shown in Figure A. Which of the following is associated with the most likely underlying cause of this patient’s condition?\nAnswer Choices: (A) Mixed type II and type IV hypersensitivity reaction (B) Increased malignancy potential with previous exposure to ionizing radiation (C) Stimulating type II hypersensitivity reaction (D) Increased production of fibrous tissue (E) Occurs following a viral infection",
+    "solution": "<answer> B </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-1779-a.jpeg",
+    "problem": "Based on the clinical presentation, what is the most likely diagnosis?\nAnswer Choices: (A) Cushing\"s syndrome (B) Familial partial lipodystrophy of the Dunnigan type (C) Insulin lipohypertrophy (D) Divarication of the rectus abdominis (E) Morgagni hernia",
+    "solution": "<answer> C </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-1728-a.jpeg",
+    "problem": "A 6-month-old male infant is evaluated for developmental concerns. His mother notes that while he responds to his name and babbles, he has never smiled and appears unable to recognize faces. The infant is exclusively breastfed and shows normal growth, with height at the 60th percentile and weight at the 85th percentile. Eye examination reveals bilateral white reflexes and inability to follow a penlight. The child demonstrates age-appropriate sitting without support and can grasp objects. Laboratory testing shows a positive reducing substance in urine but a negative glucose oxidase test. Which of the following labeled enzymatic reactions is most likely deficient in this patient?\nAnswer Choices: (A) D (B) A (C) E (D) C (E) B",
+    "solution": "<answer> D </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-65-a.jpeg",
+    "problem": "A 54-year-old male with no known medical conditions presents with a year-long history of fatigue, constipation, and decreased libido, along with progressively worsening headaches and difficulty with peripheral vision over the past 3 to 6 months.  \n\nOn physical examination, his heart rate is 52 beats per minute, blood pressure is 135/90 mm Hg, and findings include dry, pale skin, slowed relaxation phase of deep tendon reflexes, and soft but normal-sized testes. Visual field testing reveals deficits in the upper and lower temporal fields of both eyes.  \n\nLaboratory results from a 7:30 a.m. blood draw are as follows:  \n\n|  | Patient value | Reference range |  \n| --- | --- | --- |  \n| Follicle-stimulating hormone (mIU/mL) | <0.1 | 1.0–12.0 |  \n| Luteinizing hormone (mIU/mL) | <0.1 | 2.0–12.0 |  \n| Total testosterone (ng/dL) | 98 | 270–1070 |  \n| Insulin-like growth factor 1 (ng/mL) | <52 | 90–360 |  \n| Prolactin (ng/dL) | 35 | 0–15 |  \n| Thyroid-stimulating hormone (μU/mL) | 2.2 | 0.5–4.7 |  \n| Free thyroxine (ng/dL) | 0.6 | 0.8–1.8 |  \n| Cortisol (μg/dL) | 15 | 5–25 |  \n\nAdditional testing reveals a hemoglobin concentration of 11.6 g/dL (reference range: 13.5–17.5) and a serum sodium level of 131 mEq/L (136–145). Other laboratory values, including complete blood count, electrolyte levels, and kidney- and liver-function tests, are normal.  \n\nAn MRI of the pituitary gland is provided.  \n\nWhat is the most likely underlying cause of this patient’s symptoms?\nAnswer Choices: (A) Hemochromatosis (B) Central nervous system lymphoma (C) Craniopharyngioma (D) Nonfunctioning pituitary macroadenoma (E) Neurosarcoidosis",
+    "solution": "<answer> C </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-644-a.jpeg",
+    "problem": "A 8-year-old girl is brought to the physician by her parents because they are concerned that she is not growing properly. She lives on a farm with her parents and has not seen a doctor since birth, at which point they noted swelling of her hands and feet. An image of the patient is shown in Figure F. Which of the following karyotypes would you expect to find in this patient?\nAnswer Choices: (A) Figure D (B) Figure B (C) Figure A (D) Figure C (E) Figure E",
+    "solution": "<answer> A </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-549-a.jpeg",
+    "problem": "What is the most probable diagnosis in this 32-year-old male patient?\nAnswer Choices: (A) Craniopharyngioma (B) Rathke cleft cyst (C) Cushing disease (D) Meningioma (E) Prolactinoma",
+    "solution": "<answer> E </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-809-a.jpeg",
+    "problem": "A 7-year-old boy is evaluated in the pediatric otolaryngology clinic due to a 3-year history of multiple firm, painless, and slow-growing nodules on his tongue. His medical history includes mild developmental delay, and physical examination reveals a high-arched palate and marfanoid body habitus. What is the most likely underlying diagnosis?\nAnswer Choices: (A) Marfan’s syndrome (B) Gaucher’s disease (C) Multiple endocrine neoplasia type 2B (D) Tuberous sclerosis (E) Familial hypercholesterolemia",
+    "solution": "<answer> C </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-504-a.jpeg",
+    "problem": "A 14-year-old male presents for evaluation of delayed pubertal development. He describes experiencing school-related stress and fatigue, but denies other symptoms. Family history reveals maternal menarche at age 14, and his father completed growth during his final year of high school.\n\nPhysical examination shows Tanner stage 2 pubic hair and bilateral 2 mL testes. Other examination findings are normal. His growth chart is shown. Bone age assessment indicates 12 years.\n\nWhat should be the next step in managing this patient?\nAnswer Choices: (A) Perform a karyotype (B) Refer the child to a psychologist (C) Perform a growth-hormone stimulation test (D) Perform a laboratory evaluation to assess for underlying disease (E) Reassure the family",
+    "solution": "<answer> D </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-309-a.jpeg",
+    "problem": "A 43-year-old female returns for follow-up after being diagnosed with a thyroid condition 3 months ago. Her initial presentation included an 8-pound weight loss over the previous year, hot flashes despite regular menses, and the physical finding shown in Figure A. Initial labs revealed suppressed TSH and elevated free T4. She has been taking two medications since then, with improvement in anxiety and weight stabilization. She has no other medical conditions or medications. Her vital signs are stable with temperature 97.9°F (36.6°C), blood pressure 133/84 mmHg, pulse 81/min, and respirations 12/min. Current labs show:\n\n- Leukocyte count: 0.2 x 10^3/mm^3\n- Segmented neutrophils: 40%\n- Bands: 1%\n- Eosinophils: 1%\n- Basophils: 0.6%\n- Lymphocytes: 46.4%\n- Monocytes: 11%\n- Hemoglobin: 13.1 g/dL\n- Hematocrit: 44%\n- Mean corpuscular volume: 92 µm^3\n- Platelet count: 312,000/mm^3\n\nWhat is the most appropriate next step in management?\nAnswer Choices: (A) Repeat TSH level (B) Thyroidectomy (C) Radioiodine ablation (D) Discontinue her current medications (E) Switch 1 of her medications to methimazole",
+    "solution": "<answer> D </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-1733-a.jpeg",
+    "problem": "A 45-year-old female presents with increasing fatigue over 5 months. Her medical history reveals two episodes of sinus infection and one hospitalization for pneumonia within the past year. Physical examination shows a discolored skin patch on her arm, as shown in the figure. Laboratory findings indicate macrocytic anemia and decreased serum B12 levels.\n\nWhat is the most likely underlying diagnosis that explains these findings?\nAnswer Choices: (A) Autoimmune polyglandular syndrome (B) Common variable immunodeficiency (C) Gastric carcinoma (D) HIV infection (E) Celiac disease",
+    "solution": "<answer> B </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-1147-e.jpeg",
+    "problem": "Which of the following Figures illustrates a condition caused by excessive secretion of a hormone that primarily impacts the proliferative zone of the growth plate?\nAnswer Choices: (A) Figure C (B) Figure E (C) Figure A (D) Figure D (E) Figure B",
+    "solution": "<answer> E </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-1147-b.jpeg",
+    "problem": "Which of the following Figures illustrates a condition caused by excessive secretion of a hormone that primarily impacts the proliferative zone of the growth plate?\nAnswer Choices: (A) Figure C (B) Figure E (C) Figure A (D) Figure D (E) Figure B",
+    "solution": "<answer> E </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-924-a.jpeg",
+    "problem": "A 48-year-old woman with three children presents for her yearly wellness examination. Her history includes hypertension managed with estrogen-progestin hormone therapy for menopausal symptoms. Her father died recently from severe lower GI bleeding, and her two younger siblings (42 and 45 years old) were diagnosed with colorectal cancer after multiple colonic lesions were discovered during colonoscopy. The patient's lifestyle includes regular consumption of fried foods and sugary beverages, a 25-year history of smoking one pack daily, and frequent binge drinking. Her examination reveals a BMI of 38 kg/m², vital signs showing temperature 37.2°C (99.0°F), heart rate 72/min, respiratory rate 16/min, and blood pressure 139/66 mm Hg. Physical examination is normal except for axillary skin hyperpigmentation. Which of the following represents the most significant risk factor for endometrial carcinoma in this case?\nAnswer Choices: (A) Multiparity (B) Smoking (C) Obesity (D) Family history (E) Menopausal hormone therapy",
+    "solution": "<answer> D </answer>"
+  }
+]

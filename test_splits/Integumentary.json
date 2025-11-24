@@ -1,0 +1,252 @@
+[
+  {
+    "image": "MedXpertQA/MM-1899-d.jpeg",
+    "problem": "Which type of hand injury is best managed using a volar advancement (Moberg) flap closure?\nAnswer Choices: (A) Figure B (B) Figure C (C) Figure E (D) Figure D (E) Figure A",
+    "solution": "<answer> D </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-179-a.jpeg",
+    "problem": "Based on the clinical presentation, what condition represents the most probable diagnosis?\nAnswer Choices: (A) Graves\" disease (B) Iron deficiency (C) Pseudohypoparathyroidism (D) End-stage renal disease (E) Sarcoidosis",
+    "solution": "<answer> B </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-789-a.jpeg",
+    "problem": "A 12-year-old boy is evaluated in the primary care clinic for numerous crusting and ulcerated skin lesions on his face, arms, and legs. His medical history includes surgical resection of a medulloblastoma at age six and removal of two odontogenic keratocysts from his jaw at age ten. He is not currently taking any medications. His father has a *PTCH1* gene mutation. Vital signs are as follows: temperature 98.9°F, blood pressure 108/64 mmHg, pulse 90/min, and respiratory rate 16/min. Skin examination reveals over forty scattered lesions resembling the image provided, along with several 1-mm erythematous depressions on the palms bilaterally. Recent brain imaging showed calcification of the falx cerebri without evidence of tumor recurrence. Which histopathologic finding is most likely to be observed on biopsy of this patient’s skin lesions?\nAnswer Choices: (A) Keratin-filled horn cysts (B) Palisading peripheral nuclei (C) Pseudoepitheliomatous hyperplasia (D) Storiform fibroblast arrangement (E) Full epidermal keratinocytic dysplasia",
+    "solution": "<answer> B </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-184-a.jpeg",
+    "problem": "What is the diagnosis?\nAnswer Choices: (A) Leukemia (B) Lichen planus (C) Psoriasis (D) Pompe\"s disease (E) Hypercholesterolemia",
+    "solution": "<answer> E </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-613-a.jpeg",
+    "problem": "A male patient, aged 40, with comorbid chronic alcohol use disorder and HIV infection, seeks emergency care due to a persistent skin ulcer on his lower extremity that has not healed for several months. The ulcer is characterized by a surrounding sinus tract that discharges purulent material. Upon examination of the provided biopsy specimen, what is the most probable diagnosis?\nAnswer Choices: (A) Staphylococcus aureus infection (B) Squamous cell carcinoma (C) Sporotrichosis (D) Human herpesvirus 8 infection (E) Atypical mycobacterial infection",
+    "solution": "<answer> A </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-1388-a.jpeg",
+    "problem": "What is the diagnosis?\nAnswer Choices: (A) Anthrax (B) Tinea (C) Cellulitis (D) Psoriasis (E) Lichen planus",
+    "solution": "<answer> B </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-1538-a.jpeg",
+    "problem": "What is the diagnosis?\nAnswer Choices: (A) Abscess (B) Bursitis (C) Baker\"s cyst (D) Gumma (E) Septic arthritis",
+    "solution": "<answer> A </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-685-a.jpeg",
+    "problem": "What is the most probable diagnosis for a 19-month-old girl presenting with a 1-week history of an ascending erythematous rash?\nAnswer Choices: (A) Superficial thrombophlebitis (B) Cellulitis (C) Hand, foot, and mouth disease (D) Herpes zoster (E) Lymphadenitis",
+    "solution": "<answer> D </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-488-a.jpeg",
+    "problem": "A 57-year-old male presents with a 6-month history of a foreign body sensation in his eyes, describing it as feeling like sand, with gradual worsening. He denies recent trauma, eye pain, or redness but occasionally struggles to focus on objects in his far peripheral vision. He works outdoors as a postal worker and has well-controlled hypertension managed with enalapril. His vital signs are normal. Ocular examination reveals findings as shown in the photograph, with equal and reactive pupils and normal optic fundi. The rest of his physical examination is unremarkable. In addition to recommending the use of sunglasses, what is the most appropriate treatment for this condition?\nAnswer Choices: (A) Reassurance and artificial tears (B) VEGF inhibitor therapy (C) Topical antibiotic therapy (D) Surgical excision (E) Laser photocoagulation",
+    "solution": "<answer> D </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-613-b.jpeg",
+    "problem": "A male patient, aged 40, with comorbid chronic alcohol use disorder and HIV infection, seeks emergency care due to a persistent skin ulcer on his lower extremity that has not healed for several months. The ulcer is characterized by a surrounding sinus tract that discharges purulent material. Upon examination of the provided biopsy specimen, what is the most probable diagnosis?\nAnswer Choices: (A) Staphylococcus aureus infection (B) Squamous cell carcinoma (C) Sporotrichosis (D) Human herpesvirus 8 infection (E) Atypical mycobacterial infection",
+    "solution": "<answer> A </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-380-a.jpeg",
+    "problem": "A 5-year-old boy presented to the dermatology clinic with a 2-week history of multiple painless and tense bullae containing clear to slightly hemorrhagic fluid and localized to the scrotum. What is the most likely diagnosis?\nAnswer Choices: (A) Bullous impetigo (B) Dermatitis herpetiformis (C) Linear IgA bullous dermatosis (D) Fixed drug eruption (E) Cutaneous bullous lupus",
+    "solution": "<answer> C </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-102-a.jpeg",
+    "problem": "A 20-year-old Hispanic male visits his primary care physician with painful perianal ulcers. He has undergone testing for HIV and other sexually transmitted infections and has been started on multiple medications. Which of the following drugs is most commonly associated with the type of lesion shown when it occurs around the nails?\nAnswer Choices: (A) Cidofovir (B) Indinavir (C) Foscarnet (D) Didanosine (E) Zidovudine",
+    "solution": "<answer> B </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-127-a.jpeg",
+    "problem": "A 21-year-old woman presents with an itchy rash that appeared 2 hours after receiving an injection. Earlier today, she was diagnosed with uncomplicated pyelonephritis and treated with an intravenous dose of ceftriaxone, along with a prescription for oral ciprofloxacin. A photograph of the rash is provided. What is the most likely cause of this patient’s skin findings?\nAnswer Choices: (A) Hyperpermeability of the superficial dermal microvasculature (B) Tissue damage caused by the photochemical derivative of an antibiotic (C) Perivascular cutaneous polymorphonuclear infiltration (D) Cytotoxic T-cell destruction of antigen-tagged cells (E) IgE-independent mast cell activation in subcutaneous tissue",
+    "solution": "<answer> A </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-1345-a.jpeg",
+    "problem": "What is the most probable diagnosis in a patient presenting with generalized weakness and the observed clinical finding?\nAnswer Choices: (A) Smoker’s melanosis (B) Cushing’s disease (C) Hemochromatosis (D) Lichen planus pigmentosus (E) Diffuse melanosis cutis",
+    "solution": "<answer> E </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-343-a.jpeg",
+    "problem": "A 73-year-old female patient seeks dermatological evaluation for pruritic, painful hand lesions present for 9 months. The clinical examination reveals distinct demarcation of palmar creases, velvety changes to the palmar surfaces, and prominent skin ridging. Which diagnosis best explains these findings?\nAnswer Choices: (A) Palmoplantar keratoderma (B) Acromegaly (C) Palmarpsoriasis (D) Tinea manuum (E) Tripe palms",
+    "solution": "<answer> E </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-786-a.jpeg",
+    "problem": "A 24-year-old male presents to the emergency department with worsening throbbing pain in his left ear that began earlier this evening. He denies fever or chills but reports a sensation of warmth in the affected ear. His medical history includes obesity, constipation, and anxiety, and he is currently taking metformin, fiber supplements, and fluoxetine. Vital signs include a temperature of 98.6°F (37.0°C), blood pressure of 125/70 mmHg, pulse of 90/min, and respirations of 14/min. On physical examination, the ear is erythematous, warm, and exquisitely tender to palpation, as shown in Figure A. What is the most appropriate treatment for this condition?\nAnswer Choices: (A) Trimethoprim-sulfamethoxazole (B) Ciprofloxacin (C) Cephalexin (D) Clindamycin (E) Ceftriaxone and vancomycin",
+    "solution": "<answer> B </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-1196-a.jpeg",
+    "problem": "Among the hand injuries depicted in Figures A through E, which case would be best managed using a first dorsal metacarpal artery flap reconstruction?\nAnswer Choices: (A) Figure B (B) Figure E (C) Figure C (D) Figure A (E) Figure D",
+    "solution": "<answer> C </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-166-a.jpeg",
+    "problem": "A 4-year-old presents with the following findings. What is the most likely diagnosis?\nAnswer Choices: (A) Scarlet fever (B) Psoriasis (C) Bacterial dermatitis (D) Sexual abuse (E) Pilonidal abscess",
+    "solution": "<answer> C </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-816-a.jpeg",
+    "problem": "A pregnant woman at 30 weeks gestation, aged 37 and in her first pregnancy, seeks medical attention for pruritic pustules that have been present for 4 months on her trunk, arms, and legs. Clinical examination reveals papules, nodules, and follicular pustules surrounded by erythema, with no involvement of palms or soles. Histological examination of a skin biopsy demonstrates subepidermal pustules and perifollicular neutrophilic infiltration. Multiple staining methods including Gram's stain, periodic acid–Schiff stain, and Grocott methenamine silver stain yield negative results. What is the most likely diagnosis?\nAnswer Choices: (A) Disseminated herpes zoster (B) Atopic eruption of pregnancy (C) Pemphigoid gestationis (D) Secondary syphilis (E) Polymorphic eruption of pregnancy",
+    "solution": "<answer> B </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-1381-a.jpeg",
+    "problem": "A 48-year-old male presents with a 2-week history of fever, shortness of breath, and painful blistering skin lesions. His recorded temperature is 39.2°C. What is the most likely diagnosis?\nAnswer Choices: (A) Leprosy (B) Staphylococcal scalded skin syndrome (C) Lyme disease (D) Weil’s disease (E) Legionnaires\" disease",
+    "solution": "<answer> A </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-1494-a.jpeg",
+    "problem": "Based on the image, what is the most likely diagnosis?\nAnswer Choices: (A) Ketatosis follicularis (B) Leprosy (C) African trypanosomiasis (D) Frostbite (E) Papillomatosis cutis lymphostatica",
+    "solution": "<answer> E </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-1723-a.jpeg",
+    "problem": "A 30-year-old mailman seeks emergency care for a laceration over his right fourth metacarpophalangeal (MCP) joint, sustained when a dog bit his closed fist during mail delivery the previous day. The patient reports pain but is afebrile and denies chills or drainage. The dog's vaccinations are current, and the patient received a tetanus shot 3 years ago. He is otherwise healthy with no medications. Vital signs show: temperature 98.6°F (37.0°C), pulse 80/min, blood pressure 125/75 mmHg, and respirations 16/min. Upon examination of the right hand (shown in Figure A), what is the most appropriate next step in management?\nAnswer Choices: (A) Wound closure and amoxicillin-clavulanate (B) Clindamycin plus doxycycline (C) Amoxicillin-clavulanate (D) Cephalexin (E) Clindamycin",
+    "solution": "<answer> C </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-424-a.jpeg",
+    "problem": "Based on the clinical presentation shown in the image, which of the following conditions best describes this finding?\nAnswer Choices: (A) Collodion baby (B) Cutis marmorata (C) Harlequin color change (D) Bullous ichthyosiform erythroderma (E) Staphylococcal pyoderma",
+    "solution": "<answer> C </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-363-a.jpeg",
+    "problem": "Which condition is indicated by the findings?\nAnswer Choices: (A) Scabies (B) Digital pilonidal sinus (C) Gout (D) Xanthomata (E) Paronychia",
+    "solution": "<answer> C </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-1426-a.jpeg",
+    "problem": "Which of the following is the most likely diagnosis?\nAnswer Choices: (A) Primary hypothyroidism (B) Multiple myeloma (C) Tolosa-Hunt syndrome (D) Leukocytoclastic vasculitis (E) Polycythemia vera",
+    "solution": "<answer> B </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-1571-a.jpeg",
+    "problem": "A 59-year-old veterinarian presents to the dermatology clinic with a painful rash on his right hand (left) and right index finger (middle), persisting for one year. He has no additional symptoms. A biopsy of the lesion on the dorsum of the hand reveals pseudoepitheliomatous hyperplasia and granulomas in the dermis. Metagenomic next-generation sequencing identifies *Mycobacterium tuberculosis*, leading to a diagnosis of tuberculosis verrucosa cutis. Which test is most likely to confirm this diagnosis?\nAnswer Choices: (A) Rapid plasma reagin (B) Interferon-γ release assay (C) KOH staining (D) HPV genotyping (E) Tissue culture",
+    "solution": "<answer> B </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-1992-a.jpeg",
+    "problem": "A pediatrician evaluates a 3-year-old male who developed a rash two days ago. The patient's history reveals a mild fever, cough, and eye discharge 4-5 days prior, which resolved 3 days ago. Subsequently, a rash appeared on his face and spread to his trunk and hands. Current vital signs show: temperature 98.6°F (37°C), blood pressure 91/59 mmHg, pulse 108/min, respirations 19/min, and oxygen saturation 98% on room air. Physical examination reveals the findings depicted in Figure A. What potential complication is associated with the most likely underlying condition?\nAnswer Choices: (A) Hearing loss (B) Glomerulonephritis (C) Recurrent dermatomal rash (D) Mitral valve disease (E) Encephalitis",
+    "solution": "<answer> E </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-269-a.jpeg",
+    "problem": "What is the most likely diagnosis?\nAnswer Choices: (A) Secondary syphilis (B) Measles (C) Varicella (D) Impetigo (E) Dermatitis herpetiformis",
+    "solution": "<answer> C </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-152-a.jpeg",
+    "problem": "A 50-year-old male patient comes to the clinic with a skin lesion on his forearm that has undergone recent changes, including darkening from light brown to brown-black and growth from pinhead to penny size. Clinical examination reveals an irregularly shaped lesion measuring 3.5 x 2.5 cm on the left forearm. A biopsy reveals nests of pigmented melanocytes with focal invasion into the superficial dermis. The treating physician discusses a newly marketed treatment option - a monoclonal antibody targeting the cytotoxic T lymphocyte-associated antigen 4 (CTLA-4) molecule. Which molecule on antigen-presenting cells normally serves as the binding partner for CTLA-4?\nAnswer Choices: (A) MHC class II (B) T cell receptor (C) CD 28 (D) MHC class I (E) B7",
+    "solution": "<answer> E </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-1196-d.jpeg",
+    "problem": "Among the hand injuries depicted in Figures A through E, which case would be best managed using a first dorsal metacarpal artery flap reconstruction?\nAnswer Choices: (A) Figure B (B) Figure E (C) Figure C (D) Figure A (E) Figure D",
+    "solution": "<answer> C </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-107-a.jpeg",
+    "problem": "Which of the following conditions is most likely responsible for the clinical presentation described?\nAnswer Choices: (A) Pseudomonas aeruginosa infection (B) Treatment with tetracycline (C) Trichophyton rubrum infection (D) Excessive fluoride supplementation (E) Hyperbilirubinemia",
+    "solution": "<answer> A </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-1265-a.jpeg",
+    "problem": "A 35-year-old male presented to the emergency psychiatry service with paranoid delusions and was found to have patchy, irregular alopecia of the scalp. What is the most likely diagnosis?\nAnswer Choices: (A) Androgenic alopecia (B) Trichotillomania (C) Central centrifugal cicatricial alopecia (D) Hypothyroidism (E) Syphilitic alopecia",
+    "solution": "<answer> E </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-1443-a.jpeg",
+    "problem": "A 61-year-old male farmer visits his primary care physician for a routine checkup. He has not sought medical care in over a decade but reports being in good health and maintaining an active lifestyle. His medical history includes a seizure disorder managed with phenytoin and untreated diabetes mellitus. His vital signs are as follows: temperature 98.7°F (37.1°C), blood pressure 120/75 mmHg, pulse 90/min, respirations 12/min, and oxygen saturation 98% on room air. Physical examination reveals an older man in no distress. Dermatologic examination shows the findings depicted in Figure A. If a biopsy is performed on this skin lesion, which histopathologic finding is most likely to be observed?\nAnswer Choices: (A) Palisading nuclei and basal cell infiltration of the basement membrane (B) Invasive squamous cells with keratin pearls (C) Nonseptate hyphae that branch at wide angles (D) Inflammation of the pilosebaceous unit (E) Proliferation of S-100 producing cells",
+    "solution": "<answer> B </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-1731-a.jpeg",
+    "problem": "What medication would most likely result in the pattern?\nAnswer Choices: (A) Dexamethasone (B) Efavirenz (C) Ferrous sulfate (D) Doxorubicin (E) Clarithromycin",
+    "solution": "<answer> D </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-561-a.jpeg",
+    "problem": "What is the most likely diagnosis for this condition?\nAnswer Choices: (A) Epidermal nevus syndrome (B) Congenital melanocytic nevus (C) Spitz nevus (D) Nevus of Ota (E) Neurofibromatosis",
+    "solution": "<answer> B </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-215-a.jpeg",
+    "problem": "In this patient, what is the most probable underlying etiology?\nAnswer Choices: (A) Psoriasis (B) Nephrotic syndrome (C) Hyperthyroidism (D) Chemotherapy (E) Syphilis",
+    "solution": "<answer> D </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-1617-a.jpeg",
+    "problem": "A 10-month-old infant is brought in by his mother for evaluation of a persistent itchy rash. His mother first noticed the rash 6 months prior and has been using topical triamcinolone ointment and emollients with some improvement in his symptoms. He was born at 41 weeks gestation in an otherwise uneventful pregnancy. His past medical history is significant for two episodes of acute otitis media and one episode of sinusitis which resolved after brief courses of antibiotics. Physical exam is notable for scaly, pink plaques of the perioral area and the extensor surfaces as well as Figure A.A peripheral smear shows normal sized red blood cells with neutrophils, monocytes, rare eosinophils, and small platelets. His laboratory test results are shown below:Serum:Na+: 140 mEq/LK+: 4.3 mEq/LHCO3-: 20 mEq/LCL-: 102 mEq/LBUN: 18 mg/dLCreatinine: 0.9 mg/dLGlucose: 98 mg/dLLeukocyte count: 5,900/mm^3Hemoglobin: 13.1 g/dLPlatelet count: 34,000/mm^3MCV: 89 fL (normal 80-96 fL)RDW: 12.0% (normal 11.5-14.5%)MCHC: 34.1 g/dL (normal 33-36 g/dL)Reticulocytes: 1.0% (normal 0.5-1.5%)A treatment is given that prevents future occurrences of the disease. Which of the following side effects is most likely to result from the treatment that was prescribed?\nAnswer Choices: (A) Graft-versus-host disease (B) Bleeding diathesis (C) Striae distensae (D) Thrombosis (E) Osteopenia",
+    "solution": "<answer> A </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-528-a.jpeg",
+    "problem": "In this 10-year-old patient, which of the following laboratory tests would most likely show abnormal results?\nAnswer Choices: (A) Rheumatoid factor (B) Creatine kinase (C) Zinc (D) Thyrotropin (E) CD4 count",
+    "solution": "<answer> B </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-210-a.jpeg",
+    "problem": "An 8-month old infant is brought by his parents to your office for fever and malaise.  Your inspection of the patient is detailed in Image A.  An oral temperature of greater than 38.5 has been found to be the best predictor of this child's condition.  What is the second best predictor?\nAnswer Choices: (A) Elevated CRP (B) Elevated rheumatoid factor (C) Elevated neutrophil count (D) Presence of bacteria on CSF gram stain (E) Elevated ESR",
+    "solution": "<answer> A </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-60-a.jpeg",
+    "problem": "A 10-year-old boy is brought to the emergency department by his parents due to fever and headache. He recently returned from a summer camp in North Carolina, and over the past four days, he has experienced intermittent fevers and flu-like symptoms. His headache has persisted, and this morning he noticed a rash that began on his wrists and ankles and has since spread up his arms and legs. He has no significant medical history and takes no medications. His temperature is 102.2°F (39.0°C), pulse is 100/min, blood pressure is 100/55 mm Hg, respiratory rate is 20/min, and oxygen saturation is 100% on room air. On examination, the child appears ill, and a rash consistent with the one described is observed (see Figure A). Similar lesions are present on the lower extremities. No neurologic deficits or meningeal signs are noted. What is the most appropriate next step in management?\nAnswer Choices: (A) Ceftriaxone (B) Doxycycline (C) Vancomycin, ceftriaxone, and dexamethasone (D) Amoxicillin (E) Azithromycin",
+    "solution": "<answer> B </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-913-a.jpeg",
+    "problem": "A six-month-old infant is brought to the clinic with the following examination findings. What is the next best step in management?\nAnswer Choices: (A) Liver ultrasound (B) Echocardiogram (C) Interferon alpha (D) Pulse dye laser (E) Propranolol",
+    "solution": "<answer> B </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-164-a.jpeg",
+    "problem": "A female patient, aged 11, seeks medical attention for an ulcerated lesion on her cheek that has persisted for three weeks and failed to respond to antibiotic treatment. Laboratory analysis of a lesion swab specimen reveals positive PCR results for both orthopoxvirus DNA and cowpox virus-specific oligonucleotides. Which animal species represents the most probable source of transmission in this case?\nAnswer Choices: (A) Sheep (B) Chickens (C) Cows (D) Cats (E) Rabbits",
+    "solution": "<answer> D </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-75-a.jpeg",
+    "problem": "A 24-year-old male arrives at the emergency department with complaints of leg pain, burning sensation, and swelling that started while ocean swimming. He is healthy with no prior medical conditions and takes no medications. His vital signs show: temperature 97.7°F (36.5°C), blood pressure 114/74 mmHg, heart rate 60/min, respiratory rate 17/min, and oxygen saturation 98% on room air. The physical examination reveals the findings shown in Figure A. What is the most appropriate treatment approach for this condition?\nAnswer Choices: (A) Rinsing with vinegar (B) Epinephrine (C) Cold water immersion (D) Diphenhydramine (E) Surgical debridement",
+    "solution": "<answer> A </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-636-b.jpeg",
+    "problem": "A middle-aged homeless man is brought to the emergency department for alcohol withdrawal. He is unable to provide a reliable medical history. Testing confirms that the patient is HIV positive. On physical examination, a maculopapular rash is observed on both palms (Figure A), along with a lesion on the tongue (Figure B). RPR/VDRL tests are performed but return as non-reactive. A biopsy of a skin lesion reveals the presence of an organism on dark-field microscopy (Figure C). What accounts for the patient’s negative RPR/VDRL test results?\nAnswer Choices: (A) Antibody excess leading to an imbalance of the antibody to antigen ratio (B) Lower sensitivity of the test during the early stages of infection (C) The patient’s symptoms are actually a result of his HIV infection (D) Effects of HIV infection on the test reactivity (E) Effects of alcohol on the test reactivity",
+    "solution": "<answer> A </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-556-a.jpeg",
+    "problem": "A 72-year-old man is brought to the primary care clinic by his daughter due to weight loss and difficulty swallowing. He reports significant pain while chewing and swallowing, leading to an unintentional weight loss of 5.6 kg. The daughter mentions that he has Parkinson's disease and recently developed a painful blistering rash on his torso, although he avoids medical visits unless absolutely necessary. He denies itching but notes the appearance of new blisters as older ones erode. His current medication is carbidopa-levodopa. Vital signs include a temperature of 99.1°F, blood pressure of 130/90 mmHg, pulse of 90/min, and respiratory rate of 15/min. Skin examination of the upper back (*Image One*) and anterior trunk (*Image Two*) reveals blisters and erosions, with additional erosions seen on the buccal and palatine mucosa. Gentle horizontal pressure on normal skin causes new blister formation and skin sloughing. Which of the following describes the most likely level of blister formation in this patient’s skin?\n\n*Image One*\n\n*Image Two*\nAnswer Choices: (A) Subcorneal (B) Suprabasal (C) Subdermal (D) Supracorneal (E) Subepidermal",
+    "solution": "<answer> B </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-167-a.jpeg",
+    "problem": "A patient presents with a lesion on the plantar surface of the foot, accompanied by enlarged lymph nodes in the inguinal region. What is the most probable diagnosis?\nAnswer Choices: (A) Plantar wart (B) Cat scratch disease (C) Syphilis (D) Malignant melanoma (E) Pyogenic granuloma",
+    "solution": "<answer> D </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-498-a.jpeg",
+    "problem": "A mother brings her 8-year-old son to the pediatrician with concerns about gradually expanding \"light spots\" that first appeared on various parts of his body 4 months ago. The spots are asymptomatic, causing no itching, burning, or bleeding. The patient is otherwise healthy. While there is no family history of similar skin conditions, his mother has hypothyroidism. Physical examination reveals smooth, hypopigmented patches on his bilateral knuckles, knees, and inner thighs (Figure A), along with a patch of white hair (leukotrichia) on his occiput (Figure B). Which diagnostic test would be most appropriate to confirm the suspected diagnosis?\nAnswer Choices: (A) Examination under Wood lamp (B) Derum anti-Rho autoantibodies (C) Darier's scratch test (D) Tzanck smear (E) Punch biopsy",
+    "solution": "<answer> A </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-927-a.jpeg",
+    "problem": "When encountering the oral lesions shown in this image, which laboratory investigation would be most appropriate to order?\nAnswer Choices: (A) Hepatitis panel (B) Anti-nuclear antibody panel (C) Comprehensive metabolic panel (D) Liver function tests (E) Complete blood count",
+    "solution": "<answer> A </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-791-a.jpeg",
+    "problem": "This rash has been present for two weeks. What is the diagnosis?\nAnswer Choices: (A) Treponema pallidum (B) Parvovirus B19 (C) Measles (D) Gonococcus (E) Coxsackie A",
+    "solution": "<answer> A </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-515-a.jpeg",
+    "problem": "Which of the following is the correct diagnosis?\nAnswer Choices: (A) Waardenburg syndrome type II (B) Vitiligo (C) Congenital nevus (D) Psoriasis (E) Tuberous sclerosis",
+    "solution": "<answer> C </answer>"
+  }
+]

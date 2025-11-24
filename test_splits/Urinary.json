@@ -1,0 +1,77 @@
+[
+  {
+    "image": "MedXpertQA/MM-21-a.jpeg",
+    "problem": "An 82-year-old female patient develops difficulty understanding voices three days after hospital admission for acute decompensated heart failure, for which she received intravenous diuretic therapy. Her medical history includes type 2 diabetes mellitus, congestive heart failure, hypertension, and chronic kidney disease. Her home medications are ramipril, metoprolol, insulin, and atorvastatin. Current vital signs are normal. Clinical examination reveals bilateral hearing loss on whispered voice test, no lateralization with Weber test using a 512 Hz tuning fork, and positive Rinne test bilaterally. Which segment of the nephron is the primary site of action for the diuretic most likely responsible for these symptoms?\nAnswer Choices: (A) A (B) C (C) D (D) E (E) B",
+    "solution": "<answer> B </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-842-b.jpeg",
+    "problem": "Ultrasound was performed on a woman with a history of urinary tract infections. What is the  cause of the abnormality demonstrated?\nAnswer Choices: (A) Infectious (B) Iatrogenic (C) Traumatic (D) Neoplastic (E) Congenital",
+    "solution": "<answer> E </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-705-a.png",
+    "problem": "A 40-year-old female is being assessed for recurrent urinary tract infections, having experienced 4 episodes over the past year that required antibiotic treatment. Her medical history is otherwise unremarkable, and she does not use tobacco, excessive alcohol, or illicit substances. She has been in a monogamous relationship with her partner of 15 years, works as a computer programmer, and lives with her partner and two children. Vital signs are normal, with a temperature of 37.0°C (98.6°F), pulse of 65/min, and blood pressure of 120/75 mmHg. Intravenous urography reveals the provided results. The physician explains that this condition is due to abnormal embryonic kidney development. At which stage of development did this condition most likely arise?\nAnswer Choices: (A) Ureteric bud growing within the metanephric mesoderm (B) Growth of the ureteric bud into the ureteric stalk (C) Development of the ureteric bud from the nephrogenic cord (D) Failure of nephron segmentation within the metanephric blastema (E) Ureteric bud lengthening and secretion of growth factors",
+    "solution": "<answer> C </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-1059-a.jpeg",
+    "problem": "A 45-year-old woman attends a primary care follow-up visit after presenting to the emergency department three days earlier with persistent and nonspecific abdominal pain. Imaging performed at that time revealed a 3.5 x 2.5-cm mass located in the pole of the left kidney. Due to concerns about the mass's morphology, a percutaneous renal biopsy has been scheduled. The patient expresses anxiety about her prognosis and asks about her likelihood of survival based on the biopsy results. The physician references a recent study analyzing hazard ratios for survival associated with various renal tumor types confirmed by biopsy compared to healthy controls. Which of the following statements about the hazard ratios reported in this study is most accurate?\nAnswer Choices: (A) Sarcomatoid RCC has a lower chance of death compared to chromophobe RCC (B) Sarcomatoid RCC is ten times more deadly than granular cell carcinoma (C) Chromophobe renal cell carcinoma does not increase the chance of death (D) Clear cell carcinoma and chromophobe RCC had an equal chance of death (E) Chromophobe RCC has a lower chance of death compared to controls",
+    "solution": "<answer> C </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-444-a.jpeg",
+    "problem": "A 25-year-old female presents to the clinic for evaluation of recurrent urinary tract infections. Over the past year, she has experienced five episodes of cystitis and one episode of pyelonephritis. Her medical history is otherwise unremarkable, and she has no other known medical conditions. She has not been sexually active in the past six months. Her temperature is 37.7°C (99.9°F), pulse is 84/min, respirations are 17/min, and blood pressure is 110/70 mmHg. Physical examination reveals mild suprapubic tenderness. A CT scan of the abdomen and pelvis is provided below. Which anatomical structure contributes to the pathophysiology of the findings observed on the CT scan?\nAnswer Choices: (A) Third part of the duodenum (B) Superior mesenteric artery (C) Inferior vena cava (D) Urachal fistula (E) Inferior mesenteric artery",
+    "solution": "<answer> E </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-1821-a.jpeg",
+    "problem": "Which of the following conclusions can be accurately drawn from the graph on progressive renal disease presented in the pharmaceutical advertisement?\nAnswer Choices: (A) The incidence rate of progressive renal disease for both groups increased over the time of the study period (B) At the end of the study period, the risk of having developed progressive renal disease in the treatment group was approximately 1.5% lower than the risk of progressive renal disease in the placebo group (C) The graph should not be used for treatment decisions because cumulative incidence is not sufficient to allow inferences to be made about the risk for an individual patient (D) Treatment with MelliFly reduced the cumulative incidence of progressive renal disease by 28% over the time of the study period (E) At the end of the study period, more than 50% of patients in the placebo group had developed progressive renal disease compared to less than 50% in the treatment group",
+    "solution": "<answer> B </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-403-a.jpeg",
+    "problem": "A 46-year-old female presents to the emergency department with a twelve-hour history of subjective fever, malaise, joint pain, nausea, and emesis. She reports two episodes of non-bloody emesis within the past three hours. The patient has an extensive medical history and takes numerous medications; however, she forgot to bring her medication list with her. Temperature is 100.5 F. Blood pressure is 140/90 mmHg, pulse is 90/min, and respiratory rate is 15/min. Inspection reveals an erythematous maculopapular rash on the trunk. Labs are significant for eosinophilia and a serum creatinine of 2.5 mg/dL. Urinalysis reveals white blood cell casts, erythrocytes, and eosinophils. The fractional excretion of sodium is >1%. A renal biopsy is performed and shown in the image below*.* Which of the following agents is most commonly associated with the development of this condition?\nAnswer Choices: (A) Ascorbic acid (B) Penicillamine (C) Omeprazole (D) Cisplatin (E) Gentamicin",
+    "solution": "<answer> C </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-339-b.jpeg",
+    "problem": "A 40-year-old woman seeks emergency care due to nonspecific, recurring abdominal discomfort. She reports a medical history of a single kidney stone five years ago and a resolved benign ovarian cyst two years ago. She takes only a combined oral contraceptive and denies fever, weight changes, blood in urine, diarrhea, or black stools. Her vital signs show: temperature 98.5°F, blood pressure 130/90 mmHg, heart rate 76/min, and respiratory rate 12/min. Physical examination reveals increased bowel sounds and mild tenderness in both lower abdominal quadrants. A CT scan of the abdomen and pelvis incidentally reveals a renal mass (*Image One*). Following surgical removal, the gross specimen appears as shown in *Image Two*. What histopathologic features are most likely to be found upon further examination of this mass?\nAnswer Choices: (A) Admixture of blastemal, stromal, and epithelial cells (B) Irregular tubulopapillary lanes of hobnail cells (C) Enlarged mitochondria-rich eosinophilic cells (D) Perinuclear halos within densely eosinophilic cells (E) Vacuolated lipid-rich polygonal cells",
+    "solution": "<answer> C </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-187-a.jpeg",
+    "problem": "A 32-year-old female vegetarian who practices yoga regularly seeks medical attention due to progressive darkening of her urine over several weeks. Her vital signs show: temperature 98.1°F (36.7°C), blood pressure 172/103 mmHg, pulse 83/min, respiratory rate 15/min, and oxygen saturation 98% on room air. Physical examination reveals bilateral nontender flank masses. Laboratory findings are as follows:\n\nSerum:\n- Na+: 139 mEq/L\n- Cl-: 100 mEq/L\n- K+: 5.5 mEq/L\n- HCO3-: 25 mEq/L\n- BUN: 47 mg/dL\n- Glucose: 91 mg/dL\n- Creatinine: 3.1 mg/dL\n\nUrinalysis:\n- Color: Dark\n- Red blood cells: Positive\n- Bacteria: Absent\n- Leukocytes: Absent\n- Nitrites: Negative\n\nA CT scan is performed (Figure A). Which of the following clinical findings might be present in this patient?\nAnswer Choices: (A) Fixed splitting of S2 (B) Ventricular septal defect (C) Preceding dermatologic infection (D) Mid-systolic click (E) Hepatic vein thrombosis",
+    "solution": "<answer> D </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-1350-a.png",
+    "problem": "Based on the coronal ultrasound image of the left kidney in a patient evaluated for biliary colic, identify the abnormality:\nAnswer Choices: (A) A (B) E (C) B (D) D (E) C",
+    "solution": "<answer> D </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-1221-a.png",
+    "problem": "A 65-year-old man with a 20-year history of type 2 diabetes presents with a 2-day history of progressive shortness of breath and substernal chest pain that worsens with deep breathing. He reports fatigue, pruritus, and muscle cramps. His vital signs show a temperature of 38℃ (100.4℉), blood pressure 120/70 mm Hg, pulse 80/min, respiratory rate 19/min, and oxygen saturation 98% on room air. Physical examination reveals a patient sitting up and leaning forward, with a pericardial friction rub, bilateral lung crackles, dullness to percussion at lung bases, and multiple oral aphthous ulcers. His skin appears sallow. Laboratory findings are as follows:\n\n| **Serum** |  |\n| --- | --- |\n| Sodium | 136 mEq/L |\n| Potassium | 4.2 mEqL |\n| Chloride | 106 mEq/L |\n| Bicarbonate | 18 mEq/L |\n| BUN | 105 mg/dL |\n| Creatinine | 3.5 mg/dL |\n| Glucose (fasting) | 125 mg/dL |\n| Bilirubin, total | 1.2 mg/dL |\n| Bilirubin, conjugated | 0.2 mg/dL |\n| Uric acid | 25 mg/dL |\n| **CBC** |  |\n| WBC | 4,500/mm3 |\n| Hemoglobin | 14.0 g/dL |\n| Platelet count | 275,000/mm3 |\n| **Urinalysis** |  |\n| Nitrites | Negative |\n| Protein | Present |\n| Casts | None |\n| Crystals | Present (amber, birefringent) |\n\nChest X-ray demonstrates bilateral pleural effusions, more prominent on the left. ECG is provided for review. Transthoracic echocardiography shows a small pericardial effusion. What is the most appropriate treatment for this patient?\nAnswer Choices: (A) Administer furosemide 40 mg IV (B) Pericardiocentesis (C) Urgent hemodialysis (D) Pericardiectomy (E) Administer indomethacin 50 mg orally 3 times daily and prednisone 40 mg orally daily",
+    "solution": "<answer> C </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-1628-a.jpeg",
+    "problem": "A 70-year-old female is transported by ambulance to the emergency department after being discovered on her apartment floor following a 911 call from her neighbor. She is disoriented and unable to provide a history, but reports diffuse pain. Her vital signs show:\n- Temperature: 99.2°F (37.3°C)\n- Blood pressure: 129/64 mmHg\n- Pulse: 63/min\n- Respiratory rate: 13/min\n- Oxygen saturation: 99% on room air\n\nPhysical examination reveals a confused, ill-appearing woman with clear lung sounds bilaterally. The electrocardiogram is shown in Figure A. Urinalysis shows 4+ blood with dark-colored urine. What should be the next immediate step in management?\nAnswer Choices: (A) Sodium polystyrene sulfonate (B) Insulin, glucose, and IV fluid resuscitation (C) IV fluid resuscitation (D) Calcium gluconate (E) Albuterol and IV fluid resuscitation",
+    "solution": "<answer> D </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-1757-a.png",
+    "problem": "A 32-year-old primigravida presents for her first prenatal visit at what she estimates to be 36 weeks gestation. She reports experiencing \"contraction-like\" pain and has not received any prior prenatal care. Her medical history is unremarkable, and she takes only prenatal vitamins. She reports no infections or substance use during pregnancy. Her vital signs show: temperature 97.1º F, blood pressure 114/72 mmHg, pulse 86/min, and respiratory rate 14/min. Physical examination reveals a uterus smaller than expected for stated gestational age. Transabdominal ultrasound shows oligohydramnios, thickened bladder wall, bilateral ureteral dilation, and bilateral kidney changes as shown in the provided image. What is the most likely underlying developmental abnormality causing these findings?\nAnswer Choices: (A) Retention of small portion of median umbilical ligament (B) Failure of unilateral ureteric bud development (C) Retention of membranous prostatic remnant (D) Retention of partial omphalomesenteric duct (E) Failure of metanephric mesenchyme differentiation",
+    "solution": "<answer> C </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-244-a.jpeg",
+    "problem": "A 77-year-old female patient with type 2 diabetes mellitus, hypertension, and chronic kidney disease develops hearing loss three days after hospitalization for acute decompensated heart failure requiring intensive drug therapy. Her home medications include chlorthalidone, ramipril, metoprolol, insulin, and atorvastatin. The otoscopic exam is unremarkable. A whispered voice test reveals severe hearing loss, predominantly on the right side. Weber test with a 512 Hz tuning fork shows lateralization to the left ear, and Rinne test is positive bilaterally. Which segment of the nephron is the primary site of action for the medication most likely responsible for this adverse effect?\nAnswer Choices: (A) E (B) C (C) A (D) D (E) B",
+    "solution": "<answer> B </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-774-a.jpeg",
+    "problem": "A 55-year-old woman comes to the emergency department with complaints of fatigue that began two weeks ago and has progressively worsened. Her medical history includes chronic renal insufficiency, hypertension, type 2 diabetes mellitus, and hyperlipidemia. One month ago, her primary care physician switched her medication from clonidine to lisinopril. She denies symptoms such as cough, lip swelling, chest pain, weight loss, fever, chills, or diarrhea. On examination, her temperature is 37℃ (98.6℉), blood pressure is 135/85 mm Hg, pulse is 77/min, respirations are 15/min, and oxygen saturation is 97% on room air. Cardiac and pulmonary examinations are unremarkable. ECG and laboratory results reveal the following. What is the most appropriate next step in managing her hyperkalemia?\nAnswer Choices: (A) Calcium gluconate (B) β2-adrenergic agonist (C) Furosemide and saline (D) Sodium bicarbonate (E) β2-adrenergic antagonists",
+    "solution": "<answer> C </answer>"
+  }
+]

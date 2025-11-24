@@ -1,0 +1,82 @@
+[
+  {
+    "image": "MedXpertQA/MM-5-a.jpeg",
+    "problem": "A radiograph (Figure A) shows a hip injury sustained by an adolescent male during a track competition. Based on the radiographic findings, which muscle is most likely responsible for this injury?\nAnswer Choices: (A) Tensor fascia lata (B) Gluteus medius (C) Biceps femoris (D) Gluteus minimus (E) Rectus femoris",
+    "solution": "<answer> E </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-332-a.jpeg",
+    "problem": "A 21-year-old male aspiring to become a professional mixed martial artist reports weakness during forward flexion of his right arm. Four months earlier, he experienced multiple blows and kicks to his right upper extremity, torso, and flank during consecutive training sessions. On physical examination, the deformity shown in Figure A is observed. Which muscle, labeled in Figure B, is most likely impaired and contributing to his symptoms?\nAnswer Choices: (A) C (B) B (C) D (D) E (E) A",
+    "solution": "<answer> C </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-35-b.jpeg",
+    "problem": "A 79-year-old man seeks medical attention for chronic left shoulder pain and inability to raise his arm overhead. Clinical examination reveals left deltoid muscle atrophy and abnormal scapular movement. The patient has no forward flexion or external rotation capability in the left shoulder, though internal rotation remains intact. After reviewing his radiograph and MRI (shown in figures A and B), the patient inquires about his candidacy for reverse shoulder arthroplasty (RSA). What is the MOST appropriate response regarding his suitability for this procedure?\nAnswer Choices: (A) He is not a candidate for RSA due to deltoid dysfunction (B) He is not a candidate for RSA due to his age (C) He is a candidate for RSA due to ability to internally rotate (D) He is a candidate for RSA due to rotator cuff tear arthropathy (E) He is not a candidate for RSA due to massive rotator cuff tear",
+    "solution": "<answer> A </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-1255-b.jpeg",
+    "problem": "A 75-year-old man presents with a painless, gradually enlarging mass in the thigh. On physical examination, the mass measures approximately 7 cm. Figures A and B display a T1-weighted and T2-weighted MRI, respectively, while Figure C shows the histologic findings from a biopsy. What is the most likely diagnosis?\nAnswer Choices: (A) Synovial sarcoma (B) Liposarcoma (C) Schwanoma (D) Desmoid Tumor (E) Undifferentiated Pleomorphic Sarcoma",
+    "solution": "<answer> E </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-134-b.jpeg",
+    "problem": "A 40-year-old male was moving his furniture several days ago when he developed anterior forearm pain. On physical exam he is tender just distal to the antecubital fossa. He has decreased strength on supination and elbow flexion when compared to the contralateral side. His MRI is shown in Figures A and B. His injury typically occurs in what portion of the tendon’s distal insertion?\nAnswer Choices: (A) Radial (B) Distal (C) Ulnar (D) Proximal (E) Central",
+    "solution": "<answer> A </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-1203-d.jpeg",
+    "problem": "Which of the following Figures illustrates the type of exercise that most effectively strengthens muscles?\nAnswer Choices: (A) Figure C (B) Figure B (C) Figure D (D) Figure A (E) Figure E",
+    "solution": "<answer> B </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-1203-c.jpeg",
+    "problem": "Which of the following Figures illustrates the type of exercise that most effectively strengthens muscles?\nAnswer Choices: (A) Figure C (B) Figure B (C) Figure D (D) Figure A (E) Figure E",
+    "solution": "<answer> B </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-1428-a.jpeg",
+    "problem": "A 27-year-old female kindergarten teacher presents with a one-week history of bilateral joint pain affecting her metacarpal joints, proximal interphalangeal joints, wrists, and knees. She reports morning stiffness that improves throughout the day. The patient had a cold two weeks ago that has resolved. She denies weakness, paresthesia, ulcers, or photosensitivity, and has no significant medical history. Physical examination reveals joint tenderness and characteristic skin findings as shown in Figure A. Which laboratory finding would be most specific for this condition?\nAnswer Choices: (A) Increased anti-nuclease antibody (B) Increased leukocytes (C) Decreased platelets (D) Decreased reticulocytes (E) Increased rheumatoid factor",
+    "solution": "<answer> D </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-928-a.jpeg",
+    "problem": "Which of the following findings is most likely to be seen on histological examination?\nAnswer Choices: (A) Myofibers containing rimmed vacuoles (B) Variation in myofiber size, fatty replacement, and endomysial fibrosis (C) Endomysial inflammatory infiltrates and myofiber necrosis (D) Polygonal myofibers with peripherally placed nuclei (E) Prominent perifascicular and paraseptal atrophy",
+    "solution": "<answer> A </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-1107-d.jpeg",
+    "problem": "A 35-year-old male carpenter presents with antecubital fossa pain that worsens during screwdriver use. Conservative treatment over 6 months has been unsuccessful. Physical examination reveals a normal hook test but demonstrates pain and weakness with resisted supination. Standard radiographs (Figures A-C) and an MRI of the right elbow (Figure D) are provided for review. What is the most appropriate next step in treatment?\nAnswer Choices: (A) Superficial radial neurectomy (B) Transfer of the biceps to the brachialis (C) Detachment and repair of the biceps tendon (D) Exploration of the radial tunnel (E) EMG with nerve conduction study",
+    "solution": "<answer> C </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-1769-a.jpeg",
+    "problem": "A 16-year-old patient presents with a 3-day history of right knee pain, which has made weight-bearing difficult. The patient recently returned from a two-month trip to Cape Cod, where they developed a rash about one month ago. The rash was confluent, accompanied by flu-like symptoms, including headache and muscle aches, and later progressed to small, oval, erythematous macules with central clearing. On examination, the right knee is warm, swollen, and has a significantly limited range of motion. Synovial fluid analysis shows >90% polymorphonuclear leukocytes. Enzyme immunoassay and Western blot testing confirm IgG reactivity with 6 of 10 specific bands. Which of the following is the most appropriate treatment for this condition?\nAnswer Choices: (A) Azithromycin for 21 days (B) Doxycycline for 10 days (C) Ceftriaxone for 14 days (D) Cefuroxime for 21 days (E) Amoxicillin for 30 days",
+    "solution": "<answer> E </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-1274-d.jpeg",
+    "problem": "A 62-year-old female patient seeks medical attention for persistent shoulder pain. Physical examination reveals anterior shoulder pain and positive biceps provocative tests, including pain with resisted supination and forward flexion. While internal and external rotation are painful, she maintains full range of motion. After reviewing the patient's shoulder radiographs (Figures A-B) and MRI images (Figures C-E), which of the following statements accurately describes her condition?\nAnswer Choices: (A) She has isolated degenerative biceps tendonosis and an injection may cure her symptoms (B) Her clinical examination is most consistent with a SLAP tear, which should be repaired. (C) Her biceps pathology is due to her partial tearing of her subscapularis (D) She has end-stage rotator cuff arthropathy and should consider a reverse total shoulder arthroplasty (E) Her subacromial impingement is causing her biceps tendon sheath to be inflamed",
+    "solution": "<answer> C </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-1715-a.jpeg",
+    "problem": "A 26-year-old man undergoes treatment for a femoral shaft fracture using the implant shown in Figure A. At medium and long-term follow-up, which muscular deficits are most likely to be observed?\nAnswer Choices: (A) Weakness with hip external rotation and hip flexion (B) Weakness with hip abduction and knee flexion (C) Weakness with hip abduction and knee extension (D) Weakness with hip external rotation and hip abduction (E) Weakness with knee flexion and knee extension",
+    "solution": "<answer> C </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-1274-a.jpeg",
+    "problem": "A 62-year-old female patient seeks medical attention for persistent shoulder pain. Physical examination reveals anterior shoulder pain and positive biceps provocative tests, including pain with resisted supination and forward flexion. While internal and external rotation are painful, she maintains full range of motion. After reviewing the patient's shoulder radiographs (Figures A-B) and MRI images (Figures C-E), which of the following statements accurately describes her condition?\nAnswer Choices: (A) She has isolated degenerative biceps tendonosis and an injection may cure her symptoms (B) Her clinical examination is most consistent with a SLAP tear, which should be repaired. (C) Her biceps pathology is due to her partial tearing of her subscapularis (D) She has end-stage rotator cuff arthropathy and should consider a reverse total shoulder arthroplasty (E) Her subacromial impingement is causing her biceps tendon sheath to be inflamed",
+    "solution": "<answer> C </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-206-a.jpeg",
+    "problem": "A 64-year-old female patient with chronic rheumatoid arthritis reports experiencing finger dysfunction over the last 6 months. Two images are provided: Figure A shows her hand during active finger extension attempts, while Figure B shows her hand maintaining finger extension after passive manipulation. What is the most appropriate next step in treating the ring finger condition?\nAnswer Choices: (A) Spiral oblique retinacular ligament reconstruction (B) Lateral band reconstruction (C) Central slip reconstruction (D) Triangular ligament and transverse retinacular ligament reconstruction (E) Sagittal band reconstruction",
+    "solution": "<answer> E </answer>"
+  },
+  {
+    "image": "MedXpertQA/MM-1159-a.jpeg",
+    "problem": "A 29-year-old female presents after a motor vehicle rollover with multiple partial fingertip amputations. She undergoes multiple revision amputations as shown in Figure A. While performing primary closure of all fingers, however, the resident performs an additional tenodesis of the flexor and extensor tendons of the ring finger prior to closure. Which of the following may be seen on physical examination at the patient’s three-month follow-up appointment?\nAnswer Choices: (A) Unable to extend MCPJ from a flexed position, but can maintain extension once passively performed (B) Inability to make a fully closed fist secondary to decreased range of motion of adjacent fingers (C) Paradoxical interphalangeal joint extension when attempting to make a fist (D) Significant deviation from normal hand cascade (E) While PIPJ is held in 90 degrees of flexion, DIPJ hyperextends when attempting finger extension",
+    "solution": "<answer> B </answer>"
+  }
+]
